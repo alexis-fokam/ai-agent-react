@@ -1,0 +1,23 @@
+{
+  "CMD-1001": {
+    "client": "Boutique Yaoundé Sud",
+    "statut": "expédiée",
+    "produits": ["Sac de riz 25kg x10", "Huile végétale 5L x20"],
+    "date_expedition": "2026-08-01",
+    "transporteur": "Express Cargo CM"
+  },
+  "CMD-1002": {
+    "client": "Grossiste Douala Centre",
+    "statut": "en préparation",
+    "produits": ["Farine de blé 50kg x15"],
+    "date_expedition": null,
+    "transporteur": null
+  },
+  "CMD-1003": {
+    "client": "Alimentation Générale Bafoussam",
+    "statut": "livrée",
+    "produits": ["Sucre en poudre 1kg x50", "Lait en poudre 900g x30"],
+    "date_expedition": "2026-07-28",
+    "transporteur": "Rapid Transit"
+  }
+}
